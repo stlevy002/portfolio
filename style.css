@@ -1,0 +1,48 @@
+.container {
+    /* margin-right: auto;
+    margin-left: auto; */
+    text-align: center;
+}
+.bg-light a {
+    margin-left: 40px
+}
+
+.bg-light a:hover {
+    border-bottom: 2px solid green
+}
+
+.bg-light {
+    position: fixed;
+    z-index: 1;
+    top: 0;
+}
+
+
+
+.carousel-item {
+  width: auto;
+  height: 300px; 
+  margin-left: 525px; 
+}
+body {
+    background-color: #009191;
+    background-image: url("https://www.transparenttextures.com/patterns/escheresque.png")
+}
+#resumesection {
+    margin-left: 100px;
+    text-align: center;
+}
+.carousel-container-selector {
+    height: 100vh;
+    min-height: 300px;
+    max-height: 1000px;
+    object-fit: cover;
+}
+.finished-footer {
+    margin-left: 20px;
+    text-align: center;
+}
+.linkedin-github {
+    display: flex;
+    justify-content: center
+}
